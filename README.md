@@ -1,4 +1,3 @@
-# CS300-Portfolio
 Overview
 
 This section of my portfolio showcases my work in data structures and algorithms. Project One focused on analyzing runtime and memory tradeoffs between vector, hash table, and binary search tree implementations. Project Two involved building a working C++ advising assistance program that loads course data, stores it in a tree-based structure, and prints courses in alphanumeric order.
